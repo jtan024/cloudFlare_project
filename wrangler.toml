@@ -1,0 +1,6 @@
+name = "jerry_tan_cloudflare_project"
+type = "webpack"
+account_id = "5188837100bf6a7ea0498b4ab90eb44e"
+workers_dev = true
+route = ""
+zone_id = ""
